@@ -2,9 +2,16 @@
   "posts": [
     {
       "id": 1,
-      "title": "1"
-    }
+      "title": "dabotiyu",
+      "name":"1"
+    },
+    {
+      "id": 2,
+      "title": "test",
+      "name":"2"
+    },
   ],
+  
   "profile": {
     "name": "typicode"
   }
